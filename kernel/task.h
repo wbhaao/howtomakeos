@@ -1,7 +1,7 @@
 #ifndef KERNEL_TASK_H_
 #define KERNEL_TASK_H_
 
-#include "MomoryMap.h"
+#include "MemoryMap.h"
 
 #define NOT_ENOUGH_TASK_NUM 0xFFFFFFFF
 
